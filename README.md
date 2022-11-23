@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif"/></div>
+<div align="end"><img src="https://media.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif"/></div>
 <br>
 
 ## Olá, seja bem-vindo 👋
