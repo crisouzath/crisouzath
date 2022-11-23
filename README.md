@@ -1,3 +1,6 @@
+<div align="center"><img height="200em" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif"/></div>
+<br>
+
 ## Olá, seja bem-vindo 👋
 - 💼 Sou desenvolvedor Web Java<br>
 - 🏫 Sou aluno no Instituo Proa💙<br>
@@ -30,5 +33,4 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
 
-<div align="center"><img height="200em" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif"/></div>
-<br>
+
