@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/Jjzn8XGSE9MAAAAC/nyan-cat-4k.gif"/>
+<br>
 
 ## Olá, seja bem-vindo 👋
 - 💼 Sou desenvolvedor Web Java<br>
