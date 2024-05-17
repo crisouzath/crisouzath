@@ -5,20 +5,19 @@
 
 ## Olá, seja bem-vindo 👋
 - 💼 Aprendiz em Field Service no C6 Bank<br>
-- 🏫 Desenvolvedor Web Java formado pelo Instituo Proa💙<br>
-- 📚 Atualmente estudante de Análise e Desenvolvimento de Sistemas<br>
+- 🎓 Desenvolvedor Web Java formado pelo Instituo Proa💙<br>
+- 👩🏻‍💻 Atualmente estudante de Análise e Desenvolvimento de Sistemas<br>
 - 🎨 Apaixonado por arte e design<br>
 <br>
 <div>
 
-<img height='150em' src="https://github-readme-stats.vercel.app/api?username=crisouzath&theme=great-gatsby&hide=contribs"/>
 <img height='150em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisouzath&layout=compact&theme=great-gatsby"/>
 
 </div>
 <br>
 <br>
 <div>
- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,figma,java,mysql,aws&theme=light" />
 </div>
 
 ##
@@ -28,4 +27,4 @@
 </a>
 <a href="mailto:cristhiandesouza79@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
+</a>
