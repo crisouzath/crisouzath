@@ -4,10 +4,10 @@
 
 
 ## Olá, seja bem-vindo 👋
-- 💼 Aprendiz em Field Service no C6 Bank<br>
-- 🎓 Desenvolvedor Web Java formado pelo Instituo Proa💙<br>
-- 👩🏻‍💻 Atualmente estudante de Análise e Desenvolvimento de Sistemas<br>
-- 🎨 Apaixonado por arte e design<br>
+- 💼 Sou aprendiz em Field Service no C6 Bank<br>
+- 🎓 Me formei como Desenvolvedor Web Java pelo Instituo Proa💙<br>
+- 👩🏻‍💻 Atualmente estudo Análise e Desenvolvimento de Sistemas<br>
+- 🎨 Sou apaixonado por arte e design<br>
 <br>
 <div>
 
