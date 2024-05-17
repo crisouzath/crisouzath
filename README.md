@@ -4,9 +4,9 @@
 
 
 ## Olá, seja bem-vindo 👋
-- 💼 Sou desenvolvedor Web Java<br>
-- 🏫 Sou aluno no Instituo Proa💙<br>
-- 📚 Atualmente estudo Java e React<br>
+- 💼 Aprendiz em Field Service no C6 Bank<br>
+- 🏫 Desenvolvedor Web Java formado pelo Instituo Proa💙<br>
+- 📚 Atualmente estudante de Análise e Desenvolvimento de Sistemas<br>
 - 🎨 Apaixonado por arte e design<br>
 <br>
 <div>
@@ -18,14 +18,7 @@
 <br>
 <br>
 <div>
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
 ##
